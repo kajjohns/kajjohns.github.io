@@ -2,7 +2,7 @@
 layout: post
 title: "Eric Burton"
 description: |
-      I got DOGED back in February and now I am an unemployed member of the Crustal Deformation. am a geophysicist who works primarily with geodetic data and numerical and analytical modeling to investigate active deformation of the lithosphere. In particular, I study how deformation within plate boundary zones is accommodated by faulting and folding in the crust and viscous flow in the lower crust and upper mantle.
+      I am a geophysicist who works primarily with geodetic data and numerical and analytical modeling to investigate active deformation of the lithosphere. In particular, I study how deformation within plate boundary zones is accommodated by faulting and folding in the crust and viscous flow in the lower crust and upper mantle.
 image: "/assets/images/kaj.jpg"
 role: "PHD Student"
 ---

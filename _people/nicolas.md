@@ -2,8 +2,8 @@
 layout: post
 title: "Nicolas Castro-Perdomo"
 description: |
-      I am a geophysicist who works primarily with geodetic data and numerical and analytical modeling to investigate active deformation of the lithosphere. In particular, I study how deformation within plate boundary zones is accommodated by faulting and folding in the crust and viscous flow in the lower crust and upper mantle.
-image: "/assets/images/kaj.jpg"
+   I am a PhD candidate working on active tectonics and crustal deformation modeling. My work integrates geodetic data with numerical models to investigate how surface deformation is accommodated along faults and through distributed off-fault processes in the Earth's crust. 
+image: "/assets/images/nicolas.jpg"
 role: "PHD Student"
 ---
 
@@ -11,4 +11,10 @@ role: "PHD Student"
 
 {{ page.description}}
 
-You can add a more thorough description here and modify the size of the figure, remove the automatic description, etc.
+#### **Research interests**
+
+1) **Interseismic Deformation:**  
+<ul>  How transient is the deformation observed between earthquakes, as revealed by geodetic measurements? </ul>
+2) **Mantle Dynamics:**  
+<ul>  What role do mantle processes play in driving present-day surface deformation? </ul>
+

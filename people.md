@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Persons"
+title: "People"
 ---
 
-Currently, our lab has three active PhD students and two former students who are working as research associates. We are maybe interested in hearing from potential students. We also have some undergraduate researchers who work with us and need to be added into this page. [email](https://gmail.com)
+Currently, our lab has three active PhD students and two former students who are working as research associates. We are maybe interested in hearing from potential students. We also have some undergraduate researchers who work with us and need to be added into this page. 
 
 # Current Members
 
