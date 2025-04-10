@@ -7,7 +7,7 @@ layout: home_no_posts
 ---
 
 
-<img src="/assets/images/crustal_def.png" alt="Your Photo" width="250" style="float:left; margin-right:15px;">
+<img src="/assets/images/crustal_def.png" alt="Your Photo" width="500" style="float:left; margin-right:15px;">
 
 Welcome to IU Crustal Deformation!  
 
