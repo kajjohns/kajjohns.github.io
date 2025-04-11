@@ -2,7 +2,7 @@
 layout: post
 title: "Elizabeth Sherrill"
 description: |
-      I am a geophysicist who works primarily with geodetic data and numerical and analytical modeling to investigate active deformation of the lithosphere. In particular, I study how deformation within plate boundary zones is accommodated by faulting and folding in the crust and viscous flow in the lower crust and upper mantle.
+      I am a former graduate student and postdoc in the Crustal Deformation group. I am currently a postdoc at GEOMAR, Germany. I am interested in using different geophysical methods to investigate the spectrum of slip behaviors observed at subduction zones. I am currently developing a probabilistic inversion of interseismic surface velocities for the boundaries of the fully and partly coupled regions of the megathrust faults at Nankai and Cascadia subduction zones.
 image: "/assets/images/elizabethSherrill.jpg"
 role: "Research Associate"
 ---
