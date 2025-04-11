@@ -11,4 +11,4 @@ role: "Professor"
 
 {{ page.description}}
 
-<a href="kajjohns.github.io/assets/CV_kaj_Jan_2025.pdf" target="_blank">Link to my CV.</a>
+<a href="/assets/CV_kaj_Jan_2025.pdf" target="_blank">Link to my CV.</a>
