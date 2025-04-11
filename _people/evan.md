@@ -2,7 +2,7 @@
 layout: post
 title: "Ping Chen (Evan) Chiang"
 description: |
-      I am a geophysicist who works primarily with geodetic data and numerical and analytical modeling to investigate active deformation of the lithosphere. In particular, I study how deformation within plate boundary zones is accommodated by faulting and folding in the crust and viscous flow in the lower crust and upper mantle.
+      I am a PhD student in the Crustal Deformation group. I am working on reconciling long-term and present-day deformation in Taiwan through modelign and inversions of geodetic data and other measures of longer term uplift. This work is examining mountain building processes from geologic, to geomorphic, to present-day time scales. 
 image: "/assets/images/Evan.jpg"
 role: "PHD Student"
 ---
