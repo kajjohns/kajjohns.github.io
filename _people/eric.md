@@ -2,7 +2,7 @@
 layout: post
 title: "Eric Burton"
 description: |
-      I am a geophysicist who works primarily with geodetic data and numerical and analytical modeling to investigate active deformation of the lithosphere. In particular, I study how deformation within plate boundary zones is accommodated by faulting and folding in the crust and viscous flow in the lower crust and upper mantle.
+      I got my MS degree from IU and now I work as a visiting research associate in the Crustal Deformation group. I am working models of creep front propagation and interseismic creep rate accelerations in Northern Japan where we observed a decadal creep acceleration event prior to the 2011 M9 Tohoku-oki earthquake.  
 image: "/assets/images/kaj.jpg"
 role: "PHD Student"
 ---
