@@ -4,11 +4,8 @@ title: "Recent Publications"
 
 ---
 
-This is accessed by editing recent_pubs.md
+Here are some of our recent publications. You can find all them on [Google Scholar](https://scholar.google.com/citations?user=564iLhYAAAAJ&hl=en)
 
-You can just write stuff here. 
-
-the text below is looping through all of the .md files in _pubs and plotting their metadata in a nice way. I have it set that the max posts are 5 and it will truncate the list and link to an archive if we end up with more than that
 
 {% assign max_projects = 5 %}
 {% assign project_count = 0 %}
@@ -37,16 +34,5 @@ the text below is looping through all of the .md files in _pubs and plotting the
   </div>
 {% endif %}
 
-# with markdown syntax
-* one
-* two
 
-[you can link things](https://google.com)
 
-or write code 
-
-```language
-a = b**2
-c=d/4
-```
-and latex $$E = mc^2$$
