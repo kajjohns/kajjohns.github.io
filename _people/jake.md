@@ -13,6 +13,4 @@ role: "Research Associate"
 
 {{ page.description }}
 
-You can just add more description here.
 
-Test
