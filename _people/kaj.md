@@ -11,4 +11,4 @@ role: "Professor"
 
 {{ page.description}}
 
-You can add a more thorough description here and modify the size of the figure, remove the automatic description, etc.
+<a href="kajjohns.github.io/assets/CV_kaj_Jan_2025.pdf" target="_blank">PDF.</a>
