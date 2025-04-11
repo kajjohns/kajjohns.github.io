@@ -11,4 +11,4 @@ role: "PHD Student"
 
 {{ page.description}}
 
-You can add a more thorough description here and modify the size of the figure, remove the automatic description, etc.
+
