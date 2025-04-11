@@ -3,7 +3,7 @@ layout: page
 title: "People"
 ---
 
-Currently, our lab has three active PhD students and two former students who are working as research associates. We also have an undergraduate researcher. *** We are always interested in hearing from potential students! *** 
+Currently, our lab has three active PhD students and two former students who are working as research associates. We also have an undergraduate researcher. **We are always interested in hearing from potential students!** 
 
 # Current Members
 
