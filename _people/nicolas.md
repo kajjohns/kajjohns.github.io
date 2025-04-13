@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nicolas Castro-Perdomo"
+title: "Nicolás Castro-Perdomo"
 description: |
    I am a PhD candidate working on active tectonics and crustal deformation modeling. My work integrates geodetic data with numerical models to investigate how surface deformation is accommodated along faults and through distributed off-fault processes in the Earth's crust. 
 image: "/assets/images/nicolas.jpg"
